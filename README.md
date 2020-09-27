@@ -30,3 +30,6 @@ Pada materi sebelumnya kita telah belajar bagaimana menampilkan kumpulan data da
 
 ![Grid View](https://github.com/NextDvn/MyRecyclerView/blob/master/List.png)
 + Menampilkan tampilan ImageView dari gambar-gambar pahlawan
+
+![Card View](https://github.com/NextDvn/MyRecyclerView/blob/master/Screenshot_2020-09-27-09-35-20-93.png)
++ Menampilkan tampilan ImageView, TextView dengan menggunakan CardView
